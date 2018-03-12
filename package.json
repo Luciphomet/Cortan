@@ -1,0 +1,23 @@
+{
+  "name": "coryeeta",
+  "version": "1.0.0",
+  "description": "fuck",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Me nigga",
+  "license": "ISC",
+  "dependencies": {
+    "degrees-to-direction": "^1.1.1",
+    "discord.js": "^11.3.2",
+    "got": "^8.3.0",
+    "jsonfile": "^4.0.0",
+    "kmh-to-mph": "^1.0.0",
+    "moment": "^2.21.0",
+    "moment-duration-format": "^2.2.2",
+    "systeminformation": "^3.37.4",
+    "util": "^0.10.3",
+    "xml2js": "^0.4.19"
+  }
+}
